@@ -1,1 +1,1 @@
-Practicing some front end developing with a sample website design from [frontendmentor](https://www.frontendmentor.io/solutions/responsive-landingpage-tVZqoprgw)
+Practicing some front end developing with a sample website design from [frontendmentor](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN)
